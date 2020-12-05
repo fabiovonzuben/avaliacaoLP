@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1607122818 source:c:\users\lucas\documents\fatec\2ºsemestre\linguagemdeprogramação\avaliacaofinal\carrinhodecompras\funcoescarrinho.c
+	<stdio.h>
+	<stdlib.h>
+	"carrinho.h"
+
+1606834035 c:\users\lucas\documents\fatec\2ºsemestre\linguagemdeprogramação\avaliacaofinal\carrinhodecompras\carrinho.h
+
+1606933004 source:c:\users\lucas\documents\fatec\2ºsemestre\linguagemdeprogramação\avaliacaofinal\carrinhodecompras\main.c
+	<stdio.h>
+	<stdlib.h>
+	"carrinho.h"
+

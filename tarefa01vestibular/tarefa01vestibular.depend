@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1606565983 source:c:\users\lucas\documents\fatec\2ºsemestre\linguagem de programação\avaliacaofinal\tarefa01vestibular\main.c
+	<stdio.h>
+	<stdlib.h>
+	"vestibular.h"
+
+1606566233 c:\users\lucas\documents\fatec\2ºsemestre\linguagem de programação\avaliacaofinal\tarefa01vestibular\vestibular.h
+
+1606567392 source:c:\users\lucas\documents\fatec\2ºsemestre\linguagem de programação\avaliacaofinal\tarefa01vestibular\funcoesaluno.c
+	<stdio.h>
+	<stdlib.h>
+	"vestibular.h"
+
+1606565983 source:c:\users\lucas\documents\fatec\2ºsemestre\linguagemdeprogramação\avaliacaofinal\tarefa01vestibular\main.c
+	<stdio.h>
+	<stdlib.h>
+	"vestibular.h"
+
+1606566233 c:\users\lucas\documents\fatec\2ºsemestre\linguagemdeprogramação\avaliacaofinal\tarefa01vestibular\vestibular.h
+
+1607098446 source:c:\users\lucas\documents\fatec\2ºsemestre\linguagemdeprogramação\avaliacaofinal\tarefa01vestibular\funcoesaluno.c
+	<stdio.h>
+	<stdlib.h>
+	"vestibular.h"
+
