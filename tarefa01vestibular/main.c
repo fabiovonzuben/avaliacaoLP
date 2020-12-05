@@ -15,14 +15,12 @@
         printf("1.. Inserir respostas \n");
         printf("2.. Resultados \n");
         printf("3.. Procurar resultado por numero de inscricao \n");
-        printf("4.. Quantidade de Cadastrados \n");
         printf("9.. SAIR \n");
         printf("Escolha sua opcao:  \n");
         scanf("%d", &opc);
         switch(opc){
         case 1:
             responder(p);
-           // Resposta(p);
             p++;
             break;
         case 2:

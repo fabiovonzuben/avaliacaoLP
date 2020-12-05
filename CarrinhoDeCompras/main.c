@@ -14,7 +14,6 @@ int main()
         printf("1.. Criar produto \n");
         printf("2.. Listar Produtos \n");
         printf("3.. Adicionar Produtos \n");
-        printf("4.. Quantidade de Cadastrados \n");
         printf("9.. SAIR \n");
         printf("Escolha sua opcao:  \n");
         scanf("%d", &opc);
