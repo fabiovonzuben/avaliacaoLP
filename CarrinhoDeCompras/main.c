@@ -32,15 +32,11 @@ int main()
             system("cls");
             AdicionarProdutos(j);
             break;
-       /* case 4:
-            system("cls");
-            printf("O numero de cadastrado eh: %d \n", p);
-            system("pause");
-            break;
+
         case 9:
             system("cls");
             printf("Finalizou o programa \n");
-            break;*/
+            break;
         default:
             system("cls");
             printf("opcao invalida, entre novamente \n");
